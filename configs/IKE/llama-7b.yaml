@@ -1,0 +1,8 @@
+alg_name: "IKE"
+model_name: "/mnt/geminisgceph1/geminicephfs/mmsearch-luban-universal/group_semantic/user_mylasong/models/Llama-2-7b-chat-hf"
+sentence_model_name: "/mnt/geminisgceph1/geminicephfs/mmsearch-luban-universal/group_semantic/user_mylasong/models/all-MiniLM-L6-v2"
+device: 0
+results_dir: "./results_ike_llama2"
+
+k: 16
+model_parallel: false
